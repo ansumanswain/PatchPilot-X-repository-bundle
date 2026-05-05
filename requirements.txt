@@ -1,0 +1,11 @@
+openai
+anthropic
+langchain
+langgraph
+fastapi
+uvicorn
+streamlit
+python-dotenv
+gitpython
+pytest
+rich
